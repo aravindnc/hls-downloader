@@ -32,7 +32,7 @@
   "description": "Download HLS videos directly from your browser",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/tuhinpal/hls-downloader.git"
+    "url": "git+ssh://git@github.com/aravindnc/hls-downloader.git"
   },
   "keywords": [
     "hls",
@@ -40,10 +40,10 @@
     "video",
     "download"
   ],
-  "author": "Tuhin Kanti Pal <me@thetuhin.com>",
+  "author": "",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/tuhinpal/hls-downloader/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/tuhinpal/hls-downloader#readme"
+  "homepage": ""
 }
